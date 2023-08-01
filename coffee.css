@@ -1,0 +1,63 @@
+ .bg-top{
+    background-image: url(https://img.freepik.com/free-photo/coffee-beans-top-view-white-background-space-text_176474-5028.jpg?w=1060&t=st=1685794895~exp=1685795495~hmac=90f155bbdba93211f96e41d3d012cbf960dfe06f69e3110fe60237a3c32010acg);
+    background-size: cover;
+    height: 100vh;
+ }
+ .cont-us{
+  background-color: coral;
+  font-size: large;
+  font-family: Lucida Console,Monaco;
+  border: 0px;
+  border-radius: 6px;
+ }
+ .nav-menu{
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bold;
+ }
+ .logo{
+    height: 70px;
+    width: 82px;
+ }
+  .body {
+    font-family: Arial, sans-serif;
+  }
+  .heading{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  .discrip{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .menu-bg{
+    background-image:url(MeNu.png);
+    background-size: cover;
+  }
+  .menu-container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .menu-item {
+     background-color: aquamarine;
+    flex-basis: 30%;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  footer {
+    background: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
